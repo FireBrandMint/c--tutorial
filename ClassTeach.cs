@@ -25,7 +25,7 @@ public class ClassTeach : InterfaceTeach
     //Here you can declare variables wich the class object will
     //have for example 'double dolares = 0d'.
     //Variables CAN have modifiers
-    public double dolares = 0d;
+    public double dolar = 0d;
 
     //This is a method, it needs only 3 parameters to be one.
 
